@@ -1,0 +1,7 @@
+E:\Anul-II\Sem II\PIU\Proiect PIU\Proiect\Proiect\bin\Debug\Proiect.exe.config
+E:\Anul-II\Sem II\PIU\Proiect PIU\Proiect\Proiect\bin\Debug\Proiect.exe
+E:\Anul-II\Sem II\PIU\Proiect PIU\Proiect\Proiect\bin\Debug\Proiect.pdb
+E:\Anul-II\Sem II\PIU\Proiect PIU\Proiect\Proiect\obj\Debug\Proiect.csprojAssemblyReference.cache
+E:\Anul-II\Sem II\PIU\Proiect PIU\Proiect\Proiect\obj\Debug\Proiect.csproj.CoreCompileInputs.cache
+E:\Anul-II\Sem II\PIU\Proiect PIU\Proiect\Proiect\obj\Debug\Proiect.exe
+E:\Anul-II\Sem II\PIU\Proiect PIU\Proiect\Proiect\obj\Debug\Proiect.pdb
